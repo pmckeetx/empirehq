@@ -1,2 +1,3 @@
 # Empire HQ
-I like green eggs and ham
+
+Where it all starts!
